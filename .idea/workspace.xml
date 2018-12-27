@@ -1,0 +1,2150 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="34b419c4-7058-48de-8007-87ff06b95592" name="Default Changelist" comment="" />
+    <ignored path="$PROJECT_DIR$/.bundle/" />
+    <ignored path="$PROJECT_DIR$/components/" />
+    <ignored path="$PROJECT_DIR$/log/" />
+    <ignored path="$PROJECT_DIR$/public/system/" />
+    <ignored path="$PROJECT_DIR$/tmp/" />
+    <ignored path="$PROJECT_DIR$/vendor/bundle/" />
+    <ignored path="$PROJECT_DIR$/vendor/cache/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="development.sqlite3" type="feb32156:DbDataSourceImpl" />
+      </path>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="development.sqlite3" type="feb32156:DbDataSourceImpl" />
+        <item name="schemas" type="d4e8921:DatabaseStructure$FamilyGroup" />
+      </path>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="development.sqlite3" type="feb32156:DbDataSourceImpl" />
+        <item name="schemas" type="d4e8921:DatabaseStructure$FamilyGroup" />
+        <item name="main: schema" type="981a47c2:SqliteImplModel$Schema" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="todos-api" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/spec/requests/todos_spec.rb">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="521">
+              <caret line="71" column="29" selection-start-line="71" selection-start-column="29" selection-end-line="71" selection-end-column="29" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/spec/requests/authentication_spec.rb">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="282">
+              <caret line="26" column="30" lean-forward="true" selection-start-line="26" selection-start-column="30" selection-end-line="26" selection-end-column="30" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/spec/factories/users.rb">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="85">
+              <caret line="5" column="5" selection-start-line="5" selection-start-column="5" selection-end-line="5" selection-end-column="5" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/spec/auth/authorize_api_request_spec.rb">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="493">
+              <caret line="29" column="24" lean-forward="true" selection-start-line="29" selection-start-column="24" selection-end-line="29" selection-end-column="24" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/spec/auth/authenticate_user_spec.rb">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="425">
+              <caret line="25" column="38" selection-start-line="25" selection-start-column="38" selection-end-line="25" selection-end-column="38" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/spec/controllers/authentication_controller_spec.rb">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/spec/requests/users_spec.rb">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="765">
+              <caret line="44" column="3" selection-start-line="44" selection-start-column="3" selection-end-line="44" selection-end-column="3" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/spec/controllers/application_controller_spec.rb">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="374">
+              <caret line="28" column="15" selection-start-line="28" selection-start-column="15" selection-end-line="28" selection-end-column="15" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/auth/authenticate_user.rb">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-7">
+              <caret line="3" column="18" lean-forward="true" selection-start-line="3" selection-start-column="18" selection-end-line="3" selection-end-column="18" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/controllers/concerns/exception_handler.rb">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="391">
+              <caret line="23" column="38" selection-start-line="23" selection-start-column="31" selection-end-line="23" selection-end-column="38" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>:todo_id</find>
+      <find>:valid</find>
+      <find>config.i18n.fallbacks</find>
+      <find>Put</find>
+      <find>@user</find>
+    </findStrings>
+    <replaceStrings>
+      <replace>user</replace>
+    </replaceStrings>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/spec/models/item_spec.rb" />
+        <option value="$PROJECT_DIR$/spec/models/todo_spec.rb" />
+        <option value="$PROJECT_DIR$/spec/factories/todos.rb" />
+        <option value="$PROJECT_DIR$/spec/support/request_spec_helper.rb" />
+        <option value="$PROJECT_DIR$/app/controllers/concerns/response.rb" />
+        <option value="$PROJECT_DIR$/spec/models/test_test.rb" />
+        <option value="$PROJECT_DIR$/spec/factories/items.rb" />
+        <option value="$PROJECT_DIR$/app/controllers/items_controller.rb" />
+        <option value="$PROJECT_DIR$/app/models/item.rb" />
+        <option value="$PROJECT_DIR$/app/models/user.rb" />
+        <option value="$PROJECT_DIR$/spec/models/user_spec.rb" />
+        <option value="$PROJECT_DIR$/app/models/todo.rb" />
+        <option value="$PROJECT_DIR$/spec/factories/users.rb" />
+        <option value="$PROJECT_DIR$/Gemfile" />
+        <option value="$PROJECT_DIR$/spec/rails_helper.rb" />
+        <option value="$PROJECT_DIR$/app/lib/message.rb" />
+        <option value="$PROJECT_DIR$/app/lib/json_web_token.rb" />
+        <option value="$PROJECT_DIR$/spec/support/controller_spec_helper.rb" />
+        <option value="$PROJECT_DIR$/app/controllers/concerns/exception_handler.rb" />
+        <option value="$PROJECT_DIR$/app/auth/authorize_api_request.rb" />
+        <option value="$PROJECT_DIR$/spec/auth/authorize_api_request_spec.rb" />
+        <option value="$PROJECT_DIR$/spec/auth/authenticate_user.rb" />
+        <option value="$PROJECT_DIR$/app/controllers/todos_controller.rb" />
+        <option value="$PROJECT_DIR$/app/controllers/application_controller.rb" />
+        <option value="$PROJECT_DIR$/app/controllers/authentication_controller.rb" />
+        <option value="$PROJECT_DIR$/spec/requests/users_spec.rb" />
+        <option value="$PROJECT_DIR$/config/routes.rb" />
+        <option value="$PROJECT_DIR$/app/controllers/users_controller.rb" />
+        <option value="$PROJECT_DIR$/spec/requests/items_spec.rb" />
+        <option value="$PROJECT_DIR$/spec/requests/todos_spec.rb" />
+        <option value="$PROJECT_DIR$/app/auth/authenticate_user.rb" />
+        <option value="$PROJECT_DIR$/spec/requests/authentication_spec.rb" />
+        <option value="$PROJECT_DIR$/spec/controllers/application_controller_spec.rb" />
+        <option value="$PROJECT_DIR$/spec/auth/authenticate_user_spec.rb" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="683" />
+    <option name="y" value="25" />
+    <option name="width" value="683" />
+    <option name="height" value="743" />
+  </component>
+  <component name="ProjectUserFactors">
+    <factor id="binaryFeature:liftShorter">
+      <dailyData date="15-12-2018">
+        <observation name="false" value="11.0" />
+      </dailyData>
+      <dailyData date="16-12-2018">
+        <observation name="false" value="296.0" />
+      </dailyData>
+      <dailyData date="19-12-2018">
+        <observation name="false" value="185.0" />
+      </dailyData>
+      <dailyData date="20-12-2018">
+        <observation name="false" value="229.0" />
+      </dailyData>
+      <dailyData date="25-12-2018">
+        <observation name="false" value="84.0" />
+      </dailyData>
+      <dailyData date="26-12-2018">
+        <observation name="false" value="176.0" />
+      </dailyData>
+      <dailyData date="27-12-2018">
+        <observation name="false" value="15.0" />
+      </dailyData>
+    </factor>
+    <factor id="binaryFeature:liftShorterClasses">
+      <dailyData date="15-12-2018">
+        <observation name="UNDEFINED" value="11.0" />
+      </dailyData>
+      <dailyData date="16-12-2018">
+        <observation name="UNDEFINED" value="296.0" />
+      </dailyData>
+      <dailyData date="19-12-2018">
+        <observation name="UNDEFINED" value="185.0" />
+      </dailyData>
+      <dailyData date="20-12-2018">
+        <observation name="UNDEFINED" value="229.0" />
+      </dailyData>
+      <dailyData date="25-12-2018">
+        <observation name="UNDEFINED" value="84.0" />
+      </dailyData>
+      <dailyData date="26-12-2018">
+        <observation name="UNDEFINED" value="176.0" />
+      </dailyData>
+      <dailyData date="27-12-2018">
+        <observation name="UNDEFINED" value="15.0" />
+      </dailyData>
+    </factor>
+    <factor id="binaryFeature:middleMatching">
+      <dailyData date="15-12-2018">
+        <observation name="false" value="11.0" />
+      </dailyData>
+      <dailyData date="16-12-2018">
+        <observation name="false" value="294.0" />
+        <observation name="true" value="2.0" />
+      </dailyData>
+      <dailyData date="19-12-2018">
+        <observation name="false" value="185.0" />
+      </dailyData>
+      <dailyData date="20-12-2018">
+        <observation name="false" value="229.0" />
+      </dailyData>
+      <dailyData date="25-12-2018">
+        <observation name="false" value="84.0" />
+      </dailyData>
+      <dailyData date="26-12-2018">
+        <observation name="false" value="176.0" />
+      </dailyData>
+      <dailyData date="27-12-2018">
+        <observation name="false" value="15.0" />
+      </dailyData>
+    </factor>
+    <factor id="binaryFeature:nonGeneric">
+      <dailyData date="15-12-2018">
+        <observation name="UNDEFINED" value="11.0" />
+      </dailyData>
+      <dailyData date="16-12-2018">
+        <observation name="UNDEFINED" value="296.0" />
+      </dailyData>
+      <dailyData date="19-12-2018">
+        <observation name="UNDEFINED" value="185.0" />
+      </dailyData>
+      <dailyData date="20-12-2018">
+        <observation name="UNDEFINED" value="229.0" />
+      </dailyData>
+      <dailyData date="25-12-2018">
+        <observation name="UNDEFINED" value="84.0" />
+      </dailyData>
+      <dailyData date="26-12-2018">
+        <observation name="UNDEFINED" value="176.0" />
+      </dailyData>
+      <dailyData date="27-12-2018">
+        <observation name="UNDEFINED" value="15.0" />
+      </dailyData>
+    </factor>
+    <factor id="binaryFeature:prox_inResolveScope">
+      <dailyData date="15-12-2018">
+        <observation name="UNDEFINED" value="5.0" />
+        <observation name="true" value="6.0" />
+      </dailyData>
+      <dailyData date="16-12-2018">
+        <observation name="UNDEFINED" value="136.0" />
+        <observation name="true" value="160.0" />
+      </dailyData>
+      <dailyData date="19-12-2018">
+        <observation name="UNDEFINED" value="74.0" />
+        <observation name="true" value="111.0" />
+      </dailyData>
+      <dailyData date="20-12-2018">
+        <observation name="UNDEFINED" value="128.0" />
+        <observation name="true" value="101.0" />
+      </dailyData>
+      <dailyData date="25-12-2018">
+        <observation name="UNDEFINED" value="37.0" />
+        <observation name="true" value="47.0" />
+      </dailyData>
+      <dailyData date="26-12-2018">
+        <observation name="UNDEFINED" value="67.0" />
+        <observation name="true" value="109.0" />
+      </dailyData>
+      <dailyData date="27-12-2018">
+        <observation name="UNDEFINED" value="6.0" />
+        <observation name="true" value="9.0" />
+      </dailyData>
+    </factor>
+    <factor id="binaryFeature:prox_openedInEditor">
+      <dailyData date="15-12-2018">
+        <observation name="UNDEFINED" value="5.0" />
+        <observation name="false" value="6.0" />
+      </dailyData>
+      <dailyData date="16-12-2018">
+        <observation name="UNDEFINED" value="136.0" />
+        <observation name="false" value="153.0" />
+        <observation name="true" value="7.0" />
+      </dailyData>
+      <dailyData date="19-12-2018">
+        <observation name="UNDEFINED" value="74.0" />
+        <observation name="false" value="96.0" />
+        <observation name="true" value="15.0" />
+      </dailyData>
+      <dailyData date="20-12-2018">
+        <observation name="UNDEFINED" value="128.0" />
+        <observation name="false" value="81.0" />
+        <observation name="true" value="20.0" />
+      </dailyData>
+      <dailyData date="25-12-2018">
+        <observation name="UNDEFINED" value="37.0" />
+        <observation name="false" value="40.0" />
+        <observation name="true" value="7.0" />
+      </dailyData>
+      <dailyData date="26-12-2018">
+        <observation name="UNDEFINED" value="67.0" />
+        <observation name="false" value="87.0" />
+        <observation name="true" value="22.0" />
+      </dailyData>
+      <dailyData date="27-12-2018">
+        <observation name="UNDEFINED" value="6.0" />
+        <observation name="false" value="4.0" />
+        <observation name="true" value="5.0" />
+      </dailyData>
+    </factor>
+    <factor id="binaryFeature:prox_sameDirectory">
+      <dailyData date="15-12-2018">
+        <observation name="UNDEFINED" value="5.0" />
+        <observation name="false" value="6.0" />
+      </dailyData>
+      <dailyData date="16-12-2018">
+        <observation name="UNDEFINED" value="136.0" />
+        <observation name="false" value="153.0" />
+        <observation name="true" value="7.0" />
+      </dailyData>
+      <dailyData date="19-12-2018">
+        <observation name="UNDEFINED" value="74.0" />
+        <observation name="false" value="96.0" />
+        <observation name="true" value="15.0" />
+      </dailyData>
+      <dailyData date="20-12-2018">
+        <observation name="UNDEFINED" value="128.0" />
+        <observation name="false" value="83.0" />
+        <observation name="true" value="18.0" />
+      </dailyData>
+      <dailyData date="25-12-2018">
+        <observation name="UNDEFINED" value="37.0" />
+        <observation name="false" value="41.0" />
+        <observation name="true" value="6.0" />
+      </dailyData>
+      <dailyData date="26-12-2018">
+        <observation name="UNDEFINED" value="67.0" />
+        <observation name="false" value="90.0" />
+        <observation name="true" value="19.0" />
+      </dailyData>
+      <dailyData date="27-12-2018">
+        <observation name="UNDEFINED" value="6.0" />
+        <observation name="false" value="4.0" />
+        <observation name="true" value="5.0" />
+      </dailyData>
+    </factor>
+    <factor id="binaryFeature:prox_sameLogicalRoot">
+      <dailyData date="15-12-2018">
+        <observation name="UNDEFINED" value="5.0" />
+        <observation name="false" value="6.0" />
+      </dailyData>
+      <dailyData date="16-12-2018">
+        <observation name="UNDEFINED" value="136.0" />
+        <observation name="false" value="154.0" />
+        <observation name="true" value="6.0" />
+      </dailyData>
+      <dailyData date="19-12-2018">
+        <observation name="UNDEFINED" value="74.0" />
+        <observation name="false" value="98.0" />
+        <observation name="true" value="13.0" />
+      </dailyData>
+      <dailyData date="20-12-2018">
+        <observation name="UNDEFINED" value="128.0" />
+        <observation name="false" value="88.0" />
+        <observation name="true" value="13.0" />
+      </dailyData>
+      <dailyData date="25-12-2018">
+        <observation name="UNDEFINED" value="37.0" />
+        <observation name="false" value="45.0" />
+        <observation name="true" value="2.0" />
+      </dailyData>
+      <dailyData date="26-12-2018">
+        <observation name="UNDEFINED" value="67.0" />
+        <observation name="false" value="92.0" />
+        <observation name="true" value="17.0" />
+      </dailyData>
+      <dailyData date="27-12-2018">
+        <observation name="UNDEFINED" value="6.0" />
+        <observation name="false" value="4.0" />
+        <observation name="true" value="5.0" />
+      </dailyData>
+    </factor>
+    <factor id="binaryFeature:prox_sdkOrLibrary">
+      <dailyData date="15-12-2018">
+        <observation name="UNDEFINED" value="5.0" />
+        <observation name="false" value="5.0" />
+        <observation name="true" value="1.0" />
+      </dailyData>
+      <dailyData date="16-12-2018">
+        <observation name="UNDEFINED" value="136.0" />
+        <observation name="false" value="150.0" />
+        <observation name="true" value="10.0" />
+      </dailyData>
+      <dailyData date="19-12-2018">
+        <observation name="UNDEFINED" value="74.0" />
+        <observation name="false" value="109.0" />
+        <observation name="true" value="2.0" />
+      </dailyData>
+      <dailyData date="20-12-2018">
+        <observation name="UNDEFINED" value="128.0" />
+        <observation name="false" value="78.0" />
+        <observation name="true" value="23.0" />
+      </dailyData>
+      <dailyData date="25-12-2018">
+        <observation name="UNDEFINED" value="37.0" />
+        <observation name="false" value="40.0" />
+        <observation name="true" value="7.0" />
+      </dailyData>
+      <dailyData date="26-12-2018">
+        <observation name="UNDEFINED" value="67.0" />
+        <observation name="false" value="96.0" />
+        <observation name="true" value="13.0" />
+      </dailyData>
+      <dailyData date="27-12-2018">
+        <observation name="UNDEFINED" value="6.0" />
+        <observation name="false" value="9.0" />
+      </dailyData>
+    </factor>
+    <factor id="binaryFeature:templates">
+      <dailyData date="15-12-2018">
+        <observation name="false" value="6.0" />
+        <observation name="true" value="5.0" />
+      </dailyData>
+      <dailyData date="16-12-2018">
+        <observation name="false" value="265.0" />
+        <observation name="true" value="31.0" />
+      </dailyData>
+      <dailyData date="19-12-2018">
+        <observation name="false" value="163.0" />
+        <observation name="true" value="22.0" />
+      </dailyData>
+      <dailyData date="20-12-2018">
+        <observation name="false" value="217.0" />
+        <observation name="true" value="12.0" />
+      </dailyData>
+      <dailyData date="25-12-2018">
+        <observation name="false" value="80.0" />
+        <observation name="true" value="4.0" />
+      </dailyData>
+      <dailyData date="26-12-2018">
+        <observation name="false" value="161.0" />
+        <observation name="true" value="15.0" />
+      </dailyData>
+      <dailyData date="27-12-2018">
+        <observation name="false" value="15.0" />
+      </dailyData>
+    </factor>
+    <factor id="categoricalFeature:accessible">
+      <dailyData date="15-12-2018">
+        <observation name="UNDEFINED" value="11.0" />
+      </dailyData>
+      <dailyData date="16-12-2018">
+        <observation name="UNDEFINED" value="296.0" />
+      </dailyData>
+      <dailyData date="19-12-2018">
+        <observation name="UNDEFINED" value="185.0" />
+      </dailyData>
+      <dailyData date="20-12-2018">
+        <observation name="UNDEFINED" value="229.0" />
+      </dailyData>
+      <dailyData date="25-12-2018">
+        <observation name="UNDEFINED" value="84.0" />
+      </dailyData>
+      <dailyData date="26-12-2018">
+        <observation name="UNDEFINED" value="176.0" />
+      </dailyData>
+      <dailyData date="27-12-2018">
+        <observation name="UNDEFINED" value="15.0" />
+      </dailyData>
+    </factor>
+    <factor id="categoricalFeature:expectedType">
+      <dailyData date="15-12-2018">
+        <observation name="UNDEFINED" value="11.0" />
+      </dailyData>
+      <dailyData date="16-12-2018">
+        <observation name="UNDEFINED" value="296.0" />
+      </dailyData>
+      <dailyData date="19-12-2018">
+        <observation name="UNDEFINED" value="185.0" />
+      </dailyData>
+      <dailyData date="20-12-2018">
+        <observation name="UNDEFINED" value="229.0" />
+      </dailyData>
+      <dailyData date="25-12-2018">
+        <observation name="UNDEFINED" value="84.0" />
+      </dailyData>
+      <dailyData date="26-12-2018">
+        <observation name="UNDEFINED" value="176.0" />
+      </dailyData>
+      <dailyData date="27-12-2018">
+        <observation name="UNDEFINED" value="15.0" />
+      </dailyData>
+    </factor>
+    <factor id="categoricalFeature:kind">
+      <dailyData date="15-12-2018">
+        <observation name="UNDEFINED" value="11.0" />
+      </dailyData>
+      <dailyData date="16-12-2018">
+        <observation name="UNDEFINED" value="296.0" />
+      </dailyData>
+      <dailyData date="19-12-2018">
+        <observation name="UNDEFINED" value="185.0" />
+      </dailyData>
+      <dailyData date="20-12-2018">
+        <observation name="UNDEFINED" value="229.0" />
+      </dailyData>
+      <dailyData date="25-12-2018">
+        <observation name="UNDEFINED" value="84.0" />
+      </dailyData>
+      <dailyData date="26-12-2018">
+        <observation name="UNDEFINED" value="176.0" />
+      </dailyData>
+      <dailyData date="27-12-2018">
+        <observation name="UNDEFINED" value="15.0" />
+      </dailyData>
+    </factor>
+    <factor id="categoricalFeature:prox_groovyReferenceListWeigher">
+      <dailyData date="15-12-2018">
+        <observation name="UNDEFINED" value="11.0" />
+      </dailyData>
+      <dailyData date="16-12-2018">
+        <observation name="UNDEFINED" value="296.0" />
+      </dailyData>
+      <dailyData date="19-12-2018">
+        <observation name="UNDEFINED" value="185.0" />
+      </dailyData>
+      <dailyData date="20-12-2018">
+        <observation name="UNDEFINED" value="229.0" />
+      </dailyData>
+      <dailyData date="25-12-2018">
+        <observation name="UNDEFINED" value="84.0" />
+      </dailyData>
+      <dailyData date="26-12-2018">
+        <observation name="UNDEFINED" value="176.0" />
+      </dailyData>
+      <dailyData date="27-12-2018">
+        <observation name="UNDEFINED" value="15.0" />
+      </dailyData>
+    </factor>
+    <factor id="categoricalFeature:prox_javaInheritance">
+      <dailyData date="15-12-2018">
+        <observation name="UNDEFINED" value="11.0" />
+      </dailyData>
+      <dailyData date="16-12-2018">
+        <observation name="UNDEFINED" value="296.0" />
+      </dailyData>
+      <dailyData date="19-12-2018">
+        <observation name="UNDEFINED" value="185.0" />
+      </dailyData>
+      <dailyData date="20-12-2018">
+        <observation name="UNDEFINED" value="229.0" />
+      </dailyData>
+      <dailyData date="25-12-2018">
+        <observation name="UNDEFINED" value="84.0" />
+      </dailyData>
+      <dailyData date="26-12-2018">
+        <observation name="UNDEFINED" value="176.0" />
+      </dailyData>
+      <dailyData date="27-12-2018">
+        <observation name="UNDEFINED" value="15.0" />
+      </dailyData>
+    </factor>
+    <factor id="categoricalFeature:prox_referenceList">
+      <dailyData date="15-12-2018">
+        <observation name="UNDEFINED" value="11.0" />
+      </dailyData>
+      <dailyData date="16-12-2018">
+        <observation name="UNDEFINED" value="296.0" />
+      </dailyData>
+      <dailyData date="19-12-2018">
+        <observation name="UNDEFINED" value="185.0" />
+      </dailyData>
+      <dailyData date="20-12-2018">
+        <observation name="UNDEFINED" value="229.0" />
+      </dailyData>
+      <dailyData date="25-12-2018">
+        <observation name="UNDEFINED" value="84.0" />
+      </dailyData>
+      <dailyData date="26-12-2018">
+        <observation name="UNDEFINED" value="176.0" />
+      </dailyData>
+      <dailyData date="27-12-2018">
+        <observation name="UNDEFINED" value="15.0" />
+      </dailyData>
+    </factor>
+    <factor id="categoricalFeature:recursion">
+      <dailyData date="15-12-2018">
+        <observation name="UNDEFINED" value="11.0" />
+      </dailyData>
+      <dailyData date="16-12-2018">
+        <observation name="UNDEFINED" value="296.0" />
+      </dailyData>
+      <dailyData date="19-12-2018">
+        <observation name="UNDEFINED" value="185.0" />
+      </dailyData>
+      <dailyData date="20-12-2018">
+        <observation name="UNDEFINED" value="229.0" />
+      </dailyData>
+      <dailyData date="25-12-2018">
+        <observation name="UNDEFINED" value="84.0" />
+      </dailyData>
+      <dailyData date="26-12-2018">
+        <observation name="UNDEFINED" value="176.0" />
+      </dailyData>
+      <dailyData date="27-12-2018">
+        <observation name="UNDEFINED" value="15.0" />
+      </dailyData>
+    </factor>
+    <factor id="completionFinishedType">
+      <dailyData date="15-12-2018">
+        <observation name="cancelled" value="296.0" />
+        <observation name="explicitSelect" value="3.0" />
+        <observation name="typedSelect" value="8.0" />
+      </dailyData>
+      <dailyData date="16-12-2018">
+        <observation name="cancelled" value="2641.0" />
+        <observation name="explicitSelect" value="110.0" />
+        <observation name="typedSelect" value="186.0" />
+      </dailyData>
+      <dailyData date="19-12-2018">
+        <observation name="cancelled" value="1449.0" />
+        <observation name="explicitSelect" value="76.0" />
+        <observation name="typedSelect" value="109.0" />
+      </dailyData>
+      <dailyData date="20-12-2018">
+        <observation name="cancelled" value="2179.0" />
+        <observation name="explicitSelect" value="103.0" />
+        <observation name="typedSelect" value="126.0" />
+      </dailyData>
+      <dailyData date="25-12-2018">
+        <observation name="cancelled" value="778.0" />
+        <observation name="explicitSelect" value="34.0" />
+        <observation name="typedSelect" value="50.0" />
+      </dailyData>
+      <dailyData date="26-12-2018">
+        <observation name="cancelled" value="1456.0" />
+        <observation name="explicitSelect" value="83.0" />
+        <observation name="typedSelect" value="93.0" />
+      </dailyData>
+      <dailyData date="27-12-2018">
+        <observation name="cancelled" value="82.0" />
+        <observation name="explicitSelect" value="5.0" />
+        <observation name="typedSelect" value="10.0" />
+      </dailyData>
+    </factor>
+    <factor id="completionType">
+      <dailyData date="15-12-2018">
+        <observation name="BASIC" value="35.0" />
+      </dailyData>
+      <dailyData date="16-12-2018">
+        <observation name="BASIC" value="544.0" />
+      </dailyData>
+      <dailyData date="19-12-2018">
+        <observation name="BASIC" value="293.0" />
+        <observation name="SMART" value="2.0" />
+      </dailyData>
+      <dailyData date="20-12-2018">
+        <observation name="BASIC" value="424.0" />
+      </dailyData>
+      <dailyData date="25-12-2018">
+        <observation name="BASIC" value="171.0" />
+      </dailyData>
+      <dailyData date="26-12-2018">
+        <observation name="BASIC" value="339.0" />
+      </dailyData>
+      <dailyData date="27-12-2018">
+        <observation name="BASIC" value="34.0" />
+      </dailyData>
+    </factor>
+    <factor id="completionUsage">
+      <dailyData date="15-12-2018">
+        <observation name="count" value="307.0" />
+      </dailyData>
+      <dailyData date="16-12-2018">
+        <observation name="count" value="2937.0" />
+      </dailyData>
+      <dailyData date="19-12-2018">
+        <observation name="count" value="1634.0" />
+      </dailyData>
+      <dailyData date="20-12-2018">
+        <observation name="count" value="2409.0" />
+      </dailyData>
+      <dailyData date="25-12-2018">
+        <observation name="count" value="862.0" />
+      </dailyData>
+      <dailyData date="26-12-2018">
+        <observation name="count" value="1632.0" />
+      </dailyData>
+      <dailyData date="27-12-2018">
+        <observation name="count" value="97.0" />
+      </dailyData>
+    </factor>
+    <factor id="doubleFeature:explicitProximity">
+      <dailyData date="15-12-2018">
+        <observation name="average" value="0.0" />
+        <observation name="count" value="21.0" />
+        <observation name="max" value="0.0" />
+        <observation name="min" value="0.0" />
+        <observation name="variance" value="0.0" />
+      </dailyData>
+      <dailyData date="16-12-2018">
+        <observation name="average" value="0.0" />
+        <observation name="count" value="591.0" />
+        <observation name="max" value="0.0" />
+        <observation name="min" value="0.0" />
+        <observation name="variance" value="0.0" />
+      </dailyData>
+      <dailyData date="19-12-2018">
+        <observation name="average" value="0.0" />
+        <observation name="count" value="369.0" />
+        <observation name="max" value="0.0" />
+        <observation name="min" value="0.0" />
+        <observation name="variance" value="0.0" />
+      </dailyData>
+      <dailyData date="20-12-2018">
+        <observation name="average" value="0.0" />
+        <observation name="count" value="457.0" />
+        <observation name="max" value="0.0" />
+        <observation name="min" value="0.0" />
+        <observation name="variance" value="0.0" />
+      </dailyData>
+      <dailyData date="25-12-2018">
+        <observation name="average" value="0.0" />
+        <observation name="count" value="167.0" />
+        <observation name="max" value="0.0" />
+        <observation name="min" value="0.0" />
+        <observation name="variance" value="0.0" />
+      </dailyData>
+      <dailyData date="26-12-2018">
+        <observation name="average" value="0.0" />
+        <observation name="count" value="351.0" />
+        <observation name="max" value="0.0" />
+        <observation name="min" value="0.0" />
+        <observation name="variance" value="0.0" />
+      </dailyData>
+      <dailyData date="27-12-2018">
+        <observation name="average" value="0.0" />
+        <observation name="count" value="29.0" />
+        <observation name="max" value="0.0" />
+        <observation name="min" value="0.0" />
+        <observation name="variance" value="0.0" />
+      </dailyData>
+    </factor>
+    <factor id="doubleFeature:grouping">
+      <dailyData date="15-12-2018">
+        <observation name="average" value="0.0" />
+        <observation name="count" value="21.0" />
+        <observation name="max" value="0.0" />
+        <observation name="min" value="0.0" />
+        <observation name="variance" value="0.0" />
+      </dailyData>
+      <dailyData date="16-12-2018">
+        <observation name="average" value="0.0" />
+        <observation name="count" value="591.0" />
+        <observation name="max" value="0.0" />
+        <observation name="min" value="0.0" />
+        <observation name="variance" value="0.0" />
+      </dailyData>
+      <dailyData date="19-12-2018">
+        <observation name="average" value="0.0" />
+        <observation name="count" value="369.0" />
+        <observation name="max" value="0.0" />
+        <observation name="min" value="0.0" />
+        <observation name="variance" value="0.0" />
+      </dailyData>
+      <dailyData date="20-12-2018">
+        <observation name="average" value="0.0" />
+        <observation name="count" value="457.0" />
+        <observation name="max" value="0.0" />
+        <observation name="min" value="0.0" />
+        <observation name="variance" value="0.0" />
+      </dailyData>
+      <dailyData date="25-12-2018">
+        <observation name="average" value="0.0" />
+        <observation name="count" value="167.0" />
+        <observation name="max" value="0.0" />
+        <observation name="min" value="0.0" />
+        <observation name="variance" value="0.0" />
+      </dailyData>
+      <dailyData date="26-12-2018">
+        <observation name="average" value="0.0" />
+        <observation name="count" value="351.0" />
+        <observation name="max" value="0.0" />
+        <observation name="min" value="0.0" />
+        <observation name="variance" value="0.0" />
+      </dailyData>
+      <dailyData date="27-12-2018">
+        <observation name="average" value="0.0" />
+        <observation name="count" value="29.0" />
+        <observation name="max" value="0.0" />
+        <observation name="min" value="0.0" />
+        <observation name="variance" value="0.0" />
+      </dailyData>
+    </factor>
+    <factor id="doubleFeature:mostUsed">
+      <dailyData date="15-12-2018">
+        <observation name="UNDEFINED" value="11.0" />
+      </dailyData>
+      <dailyData date="16-12-2018">
+        <observation name="UNDEFINED" value="296.0" />
+      </dailyData>
+      <dailyData date="19-12-2018">
+        <observation name="UNDEFINED" value="185.0" />
+      </dailyData>
+      <dailyData date="20-12-2018">
+        <observation name="UNDEFINED" value="229.0" />
+      </dailyData>
+      <dailyData date="25-12-2018">
+        <observation name="UNDEFINED" value="84.0" />
+      </dailyData>
+      <dailyData date="26-12-2018">
+        <observation name="UNDEFINED" value="176.0" />
+      </dailyData>
+      <dailyData date="27-12-2018">
+        <observation name="UNDEFINED" value="15.0" />
+      </dailyData>
+    </factor>
+    <factor id="doubleFeature:nameEnd">
+      <dailyData date="15-12-2018">
+        <observation name="UNDEFINED" value="11.0" />
+      </dailyData>
+      <dailyData date="16-12-2018">
+        <observation name="UNDEFINED" value="296.0" />
+      </dailyData>
+      <dailyData date="19-12-2018">
+        <observation name="UNDEFINED" value="185.0" />
+      </dailyData>
+      <dailyData date="20-12-2018">
+        <observation name="UNDEFINED" value="229.0" />
+      </dailyData>
+      <dailyData date="25-12-2018">
+        <observation name="UNDEFINED" value="84.0" />
+      </dailyData>
+      <dailyData date="26-12-2018">
+        <observation name="UNDEFINED" value="176.0" />
+      </dailyData>
+      <dailyData date="27-12-2018">
+        <observation name="UNDEFINED" value="15.0" />
+      </dailyData>
+    </factor>
+    <factor id="doubleFeature:position">
+      <dailyData date="15-12-2018">
+        <observation name="average" value="0.095238" />
+        <observation name="count" value="21.0" />
+        <observation name="max" value="1.0" />
+        <observation name="min" value="0.0" />
+        <observation name="variance" value="0.057173" />
+      </dailyData>
+      <dailyData date="16-12-2018">
+        <observation name="average" value="0.152284" />
+        <observation name="count" value="591.0" />
+        <observation name="max" value="3.0" />
+        <observation name="min" value="0.0" />
+        <observation name="variance" value="0.150188" />
+      </dailyData>
+      <dailyData date="19-12-2018">
+        <observation name="average" value="0.195122" />
+        <observation name="count" value="369.0" />
+        <observation name="max" value="1.0" />
+        <observation name="min" value="0.0" />
+        <observation name="variance" value="0.133024" />
+      </dailyData>
+      <dailyData date="20-12-2018">
+        <observation name="average" value="0.122538" />
+        <observation name="count" value="457.0" />
+        <observation name="max" value="3.0" />
+        <observation name="min" value="0.0" />
+        <observation name="variance" value="0.124515" />
+      </dailyData>
+      <dailyData date="25-12-2018">
+        <observation name="average" value="0.143712" />
+        <observation name="count" value="167.0" />
+        <observation name="max" value="3.0" />
+        <observation name="min" value="0.0" />
+        <observation name="variance" value="0.150266" />
+      </dailyData>
+      <dailyData date="26-12-2018">
+        <observation name="average" value="0.150997" />
+        <observation name="count" value="351.0" />
+        <observation name="max" value="2.0" />
+        <observation name="min" value="0.0" />
+        <observation name="variance" value="0.131597" />
+      </dailyData>
+      <dailyData date="27-12-2018">
+        <observation name="average" value="0.0" />
+        <observation name="count" value="29.0" />
+        <observation name="max" value="0.0" />
+        <observation name="min" value="0.0" />
+        <observation name="variance" value="0.0" />
+      </dailyData>
+    </factor>
+    <factor id="doubleFeature:prefix">
+      <dailyData date="15-12-2018">
+        <observation name="average" value="-1152.809524" />
+        <observation name="count" value="21.0" />
+        <observation name="max" value="-1152.0" />
+        <observation name="min" value="-1153.0" />
+        <observation name="variance" value="0.090924" />
+      </dailyData>
+      <dailyData date="16-12-2018">
+        <observation name="average" value="-1145.956007" />
+        <observation name="count" value="591.0" />
+        <observation name="max" value="-1005.0" />
+        <observation name="min" value="-1203.0" />
+        <observation name="variance" value="859.174553" />
+      </dailyData>
+      <dailyData date="19-12-2018">
+        <observation name="average" value="-1151.352304" />
+        <observation name="count" value="369.0" />
+        <observation name="max" value="-1053.0" />
+        <observation name="min" value="-1155.0" />
+        <observation name="variance" value="105.471242" />
+      </dailyData>
+      <dailyData date="20-12-2018">
+        <observation name="average" value="-1125.739606" />
+        <observation name="count" value="457.0" />
+        <observation name="max" value="0.0" />
+        <observation name="min" value="-1155.0" />
+        <observation name="variance" value="10146.885936" />
+      </dailyData>
+      <dailyData date="25-12-2018">
+        <observation name="average" value="-1139.556886" />
+        <observation name="count" value="167.0" />
+        <observation name="max" value="-1052.0" />
+        <observation name="min" value="-1155.0" />
+        <observation name="variance" value="693.801137" />
+      </dailyData>
+      <dailyData date="26-12-2018">
+        <observation name="average" value="-1121.327635" />
+        <observation name="count" value="351.0" />
+        <observation name="max" value="0.0" />
+        <observation name="min" value="-1155.0" />
+        <observation name="variance" value="15895.014133" />
+      </dailyData>
+      <dailyData date="27-12-2018">
+        <observation name="average" value="-1152.931034" />
+        <observation name="count" value="29.0" />
+        <observation name="max" value="-1152.0" />
+        <observation name="min" value="-1155.0" />
+        <observation name="variance" value="0.363855" />
+      </dailyData>
+    </factor>
+    <factor id="doubleFeature:priority">
+      <dailyData date="15-12-2018">
+        <observation name="average" value="-93.333333" />
+        <observation name="count" value="21.0" />
+        <observation name="max" value="40.0" />
+        <observation name="min" value="-400.0" />
+        <observation name="variance" value="15627.449759" />
+      </dailyData>
+      <dailyData date="16-12-2018">
+        <observation name="average" value="-204.470389" />
+        <observation name="count" value="591.0" />
+        <observation name="max" value="120.0" />
+        <observation name="min" value="-1000.0" />
+        <observation name="variance" value="143031.753727" />
+      </dailyData>
+      <dailyData date="19-12-2018">
+        <observation name="average" value="-137.230352" />
+        <observation name="count" value="369.0" />
+        <observation name="max" value="120.0" />
+        <observation name="min" value="-1000.0" />
+        <observation name="variance" value="95525.199004" />
+      </dailyData>
+      <dailyData date="20-12-2018">
+        <observation name="average" value="-196.459519" />
+        <observation name="count" value="457.0" />
+        <observation name="max" value="120.0" />
+        <observation name="min" value="-1000.0" />
+        <observation name="variance" value="99814.418225" />
+      </dailyData>
+      <dailyData date="25-12-2018">
+        <observation name="average" value="-170.850299" />
+        <observation name="count" value="167.0" />
+        <observation name="max" value="120.0" />
+        <observation name="min" value="-1000.0" />
+        <observation name="variance" value="87573.847025" />
+      </dailyData>
+      <dailyData date="26-12-2018">
+        <observation name="average" value="-130.324786" />
+        <observation name="count" value="351.0" />
+        <observation name="max" value="120.0" />
+        <observation name="min" value="-1000.0" />
+        <observation name="variance" value="89301.429055" />
+      </dailyData>
+      <dailyData date="27-12-2018">
+        <observation name="average" value="-104.068966" />
+        <observation name="count" value="29.0" />
+        <observation name="max" value="120.0" />
+        <observation name="min" value="-1000.0" />
+        <observation name="variance" value="68362.583624" />
+      </dailyData>
+    </factor>
+    <factor id="doubleFeature:prox_explicitlyImported">
+      <dailyData date="15-12-2018">
+        <observation name="UNDEFINED" value="11.0" />
+      </dailyData>
+      <dailyData date="16-12-2018">
+        <observation name="UNDEFINED" value="296.0" />
+      </dailyData>
+      <dailyData date="19-12-2018">
+        <observation name="UNDEFINED" value="185.0" />
+      </dailyData>
+      <dailyData date="20-12-2018">
+        <observation name="UNDEFINED" value="229.0" />
+      </dailyData>
+      <dailyData date="25-12-2018">
+        <observation name="UNDEFINED" value="84.0" />
+      </dailyData>
+      <dailyData date="26-12-2018">
+        <observation name="UNDEFINED" value="176.0" />
+      </dailyData>
+      <dailyData date="27-12-2018">
+        <observation name="UNDEFINED" value="15.0" />
+      </dailyData>
+    </factor>
+    <factor id="doubleFeature:prox_knownElement">
+      <dailyData date="15-12-2018">
+        <observation name="UNDEFINED" value="11.0" />
+      </dailyData>
+      <dailyData date="16-12-2018">
+        <observation name="UNDEFINED" value="296.0" />
+      </dailyData>
+      <dailyData date="19-12-2018">
+        <observation name="UNDEFINED" value="185.0" />
+      </dailyData>
+      <dailyData date="20-12-2018">
+        <observation name="UNDEFINED" value="229.0" />
+      </dailyData>
+      <dailyData date="25-12-2018">
+        <observation name="UNDEFINED" value="84.0" />
+      </dailyData>
+      <dailyData date="26-12-2018">
+        <observation name="UNDEFINED" value="176.0" />
+      </dailyData>
+      <dailyData date="27-12-2018">
+        <observation name="UNDEFINED" value="15.0" />
+      </dailyData>
+    </factor>
+    <factor id="doubleFeature:prox_sameModule">
+      <dailyData date="15-12-2018">
+        <observation name="UNDEFINED" value="5.0" />
+        <observation name="average" value="1.636364" />
+        <observation name="count" value="11.0" />
+        <observation name="max" value="2.0" />
+        <observation name="min" value="0.0" />
+        <observation name="variance" value="0.267769" />
+      </dailyData>
+      <dailyData date="16-12-2018">
+        <observation name="UNDEFINED" value="136.0" />
+        <observation name="average" value="0.351097" />
+        <observation name="count" value="319.0" />
+        <observation name="max" value="2.0" />
+        <observation name="min" value="0.0" />
+        <observation name="variance" value="0.56148" />
+      </dailyData>
+      <dailyData date="19-12-2018">
+        <observation name="UNDEFINED" value="74.0" />
+        <observation name="average" value="0.470588" />
+        <observation name="count" value="221.0" />
+        <observation name="max" value="2.0" />
+        <observation name="min" value="0.0" />
+        <observation name="variance" value="0.604225" />
+      </dailyData>
+      <dailyData date="20-12-2018">
+        <observation name="UNDEFINED" value="128.0" />
+        <observation name="average" value="0.557214" />
+        <observation name="count" value="201.0" />
+        <observation name="max" value="2.0" />
+        <observation name="min" value="0.0" />
+        <observation name="variance" value="0.695189" />
+      </dailyData>
+      <dailyData date="25-12-2018">
+        <observation name="UNDEFINED" value="37.0" />
+        <observation name="average" value="0.473118" />
+        <observation name="count" value="93.0" />
+        <observation name="max" value="2.0" />
+        <observation name="min" value="0.0" />
+        <observation name="variance" value="0.485118" />
+      </dailyData>
+      <dailyData date="26-12-2018">
+        <observation name="UNDEFINED" value="67.0" />
+        <observation name="average" value="0.552995" />
+        <observation name="count" value="217.0" />
+        <observation name="max" value="2.0" />
+        <observation name="min" value="0.0" />
+        <observation name="variance" value="0.699047" />
+      </dailyData>
+      <dailyData date="27-12-2018">
+        <observation name="UNDEFINED" value="6.0" />
+        <observation name="average" value="1.294118" />
+        <observation name="count" value="17.0" />
+        <observation name="max" value="2.0" />
+        <observation name="min" value="0.0" />
+        <observation name="variance" value="0.536312" />
+      </dailyData>
+    </factor>
+    <factor id="doubleFeature:prox_samePsiMember">
+      <dailyData date="15-12-2018">
+        <observation name="UNDEFINED" value="11.0" />
+      </dailyData>
+      <dailyData date="16-12-2018">
+        <observation name="UNDEFINED" value="296.0" />
+      </dailyData>
+      <dailyData date="19-12-2018">
+        <observation name="UNDEFINED" value="185.0" />
+      </dailyData>
+      <dailyData date="20-12-2018">
+        <observation name="UNDEFINED" value="229.0" />
+      </dailyData>
+      <dailyData date="25-12-2018">
+        <observation name="UNDEFINED" value="84.0" />
+      </dailyData>
+      <dailyData date="26-12-2018">
+        <observation name="UNDEFINED" value="176.0" />
+      </dailyData>
+      <dailyData date="27-12-2018">
+        <observation name="UNDEFINED" value="15.0" />
+      </dailyData>
+    </factor>
+    <factor id="doubleFeature:query_length">
+      <dailyData date="15-12-2018">
+        <observation name="average" value="0.0" />
+        <observation name="count" value="21.0" />
+        <observation name="max" value="0.0" />
+        <observation name="min" value="0.0" />
+        <observation name="variance" value="0.0" />
+      </dailyData>
+      <dailyData date="16-12-2018">
+        <observation name="average" value="0.0" />
+        <observation name="count" value="591.0" />
+        <observation name="max" value="0.0" />
+        <observation name="min" value="0.0" />
+        <observation name="variance" value="0.0" />
+      </dailyData>
+      <dailyData date="19-12-2018">
+        <observation name="average" value="0.0" />
+        <observation name="count" value="369.0" />
+        <observation name="max" value="0.0" />
+        <observation name="min" value="0.0" />
+        <observation name="variance" value="0.0" />
+      </dailyData>
+      <dailyData date="20-12-2018">
+        <observation name="average" value="0.0" />
+        <observation name="count" value="457.0" />
+        <observation name="max" value="0.0" />
+        <observation name="min" value="0.0" />
+        <observation name="variance" value="0.0" />
+      </dailyData>
+      <dailyData date="25-12-2018">
+        <observation name="average" value="0.0" />
+        <observation name="count" value="167.0" />
+        <observation name="max" value="0.0" />
+        <observation name="min" value="0.0" />
+        <observation name="variance" value="0.0" />
+      </dailyData>
+      <dailyData date="26-12-2018">
+        <observation name="average" value="0.0" />
+        <observation name="count" value="351.0" />
+        <observation name="max" value="0.0" />
+        <observation name="min" value="0.0" />
+        <observation name="variance" value="0.0" />
+      </dailyData>
+      <dailyData date="27-12-2018">
+        <observation name="average" value="0.0" />
+        <observation name="count" value="29.0" />
+        <observation name="max" value="0.0" />
+        <observation name="min" value="0.0" />
+        <observation name="variance" value="0.0" />
+      </dailyData>
+    </factor>
+    <factor id="doubleFeature:result_length">
+      <dailyData date="15-12-2018">
+        <observation name="average" value="4.571429" />
+        <observation name="count" value="21.0" />
+        <observation name="max" value="11.0" />
+        <observation name="min" value="2.0" />
+        <observation name="variance" value="5.98959" />
+      </dailyData>
+      <dailyData date="16-12-2018">
+        <observation name="average" value="5.258883" />
+        <observation name="count" value="591.0" />
+        <observation name="max" value="17.0" />
+        <observation name="min" value="1.0" />
+        <observation name="variance" value="10.891348" />
+      </dailyData>
+      <dailyData date="19-12-2018">
+        <observation name="average" value="5.498645" />
+        <observation name="count" value="369.0" />
+        <observation name="max" value="16.0" />
+        <observation name="min" value="1.0" />
+        <observation name="variance" value="12.234326" />
+      </dailyData>
+      <dailyData date="20-12-2018">
+        <observation name="average" value="7.326039" />
+        <observation name="count" value="457.0" />
+        <observation name="max" value="25.0" />
+        <observation name="min" value="1.0" />
+        <observation name="variance" value="23.834495" />
+      </dailyData>
+      <dailyData date="25-12-2018">
+        <observation name="average" value="6.317365" />
+        <observation name="count" value="167.0" />
+        <observation name="max" value="19.0" />
+        <observation name="min" value="1.0" />
+        <observation name="variance" value="13.253994" />
+      </dailyData>
+      <dailyData date="26-12-2018">
+        <observation name="average" value="6.37037" />
+        <observation name="count" value="351.0" />
+        <observation name="max" value="21.0" />
+        <observation name="min" value="1.0" />
+        <observation name="variance" value="16.337332" />
+      </dailyData>
+      <dailyData date="27-12-2018">
+        <observation name="average" value="6.482759" />
+        <observation name="count" value="29.0" />
+        <observation name="max" value="18.0" />
+        <observation name="min" value="2.0" />
+        <observation name="variance" value="8.262512" />
+      </dailyData>
+    </factor>
+    <factor id="doubleFeature:sameWords">
+      <dailyData date="15-12-2018">
+        <observation name="UNDEFINED" value="11.0" />
+      </dailyData>
+      <dailyData date="16-12-2018">
+        <observation name="UNDEFINED" value="296.0" />
+      </dailyData>
+      <dailyData date="19-12-2018">
+        <observation name="UNDEFINED" value="185.0" />
+      </dailyData>
+      <dailyData date="20-12-2018">
+        <observation name="UNDEFINED" value="229.0" />
+      </dailyData>
+      <dailyData date="25-12-2018">
+        <observation name="UNDEFINED" value="84.0" />
+      </dailyData>
+      <dailyData date="26-12-2018">
+        <observation name="UNDEFINED" value="176.0" />
+      </dailyData>
+      <dailyData date="27-12-2018">
+        <observation name="UNDEFINED" value="15.0" />
+      </dailyData>
+    </factor>
+    <factor id="doubleFeature:shorter">
+      <dailyData date="15-12-2018">
+        <observation name="UNDEFINED" value="11.0" />
+      </dailyData>
+      <dailyData date="16-12-2018">
+        <observation name="UNDEFINED" value="296.0" />
+      </dailyData>
+      <dailyData date="19-12-2018">
+        <observation name="UNDEFINED" value="185.0" />
+      </dailyData>
+      <dailyData date="20-12-2018">
+        <observation name="UNDEFINED" value="229.0" />
+      </dailyData>
+      <dailyData date="25-12-2018">
+        <observation name="UNDEFINED" value="84.0" />
+      </dailyData>
+      <dailyData date="26-12-2018">
+        <observation name="UNDEFINED" value="176.0" />
+      </dailyData>
+      <dailyData date="27-12-2018">
+        <observation name="UNDEFINED" value="15.0" />
+      </dailyData>
+    </factor>
+    <factor id="doubleFeature:simple">
+      <dailyData date="15-12-2018">
+        <observation name="UNDEFINED" value="11.0" />
+      </dailyData>
+      <dailyData date="16-12-2018">
+        <observation name="UNDEFINED" value="296.0" />
+      </dailyData>
+      <dailyData date="19-12-2018">
+        <observation name="UNDEFINED" value="185.0" />
+      </dailyData>
+      <dailyData date="20-12-2018">
+        <observation name="UNDEFINED" value="229.0" />
+      </dailyData>
+      <dailyData date="25-12-2018">
+        <observation name="UNDEFINED" value="84.0" />
+      </dailyData>
+      <dailyData date="26-12-2018">
+        <observation name="UNDEFINED" value="176.0" />
+      </dailyData>
+      <dailyData date="27-12-2018">
+        <observation name="UNDEFINED" value="15.0" />
+      </dailyData>
+    </factor>
+    <factor id="doubleFeature:sorter">
+      <dailyData date="15-12-2018">
+        <observation name="average" value="1.0" />
+        <observation name="count" value="21.0" />
+        <observation name="max" value="1.0" />
+        <observation name="min" value="1.0" />
+        <observation name="variance" value="0.0" />
+      </dailyData>
+      <dailyData date="16-12-2018">
+        <observation name="average" value="1.0" />
+        <observation name="count" value="591.0" />
+        <observation name="max" value="1.0" />
+        <observation name="min" value="1.0" />
+        <observation name="variance" value="0.0" />
+      </dailyData>
+      <dailyData date="19-12-2018">
+        <observation name="average" value="1.0" />
+        <observation name="count" value="369.0" />
+        <observation name="max" value="1.0" />
+        <observation name="min" value="1.0" />
+        <observation name="variance" value="0.0" />
+      </dailyData>
+      <dailyData date="20-12-2018">
+        <observation name="average" value="1.0" />
+        <observation name="count" value="457.0" />
+        <observation name="max" value="1.0" />
+        <observation name="min" value="1.0" />
+        <observation name="variance" value="0.0" />
+      </dailyData>
+      <dailyData date="25-12-2018">
+        <observation name="average" value="1.0" />
+        <observation name="count" value="167.0" />
+        <observation name="max" value="1.0" />
+        <observation name="min" value="1.0" />
+        <observation name="variance" value="0.0" />
+      </dailyData>
+      <dailyData date="26-12-2018">
+        <observation name="average" value="1.0" />
+        <observation name="count" value="351.0" />
+        <observation name="max" value="1.0" />
+        <observation name="min" value="1.0" />
+        <observation name="variance" value="0.0" />
+      </dailyData>
+      <dailyData date="27-12-2018">
+        <observation name="average" value="1.0" />
+        <observation name="count" value="29.0" />
+        <observation name="max" value="1.0" />
+        <observation name="min" value="1.0" />
+        <observation name="variance" value="0.0" />
+      </dailyData>
+    </factor>
+    <factor id="doubleFeature:statics">
+      <dailyData date="15-12-2018">
+        <observation name="UNDEFINED" value="11.0" />
+      </dailyData>
+      <dailyData date="16-12-2018">
+        <observation name="UNDEFINED" value="296.0" />
+      </dailyData>
+      <dailyData date="19-12-2018">
+        <observation name="UNDEFINED" value="185.0" />
+      </dailyData>
+      <dailyData date="20-12-2018">
+        <observation name="UNDEFINED" value="229.0" />
+      </dailyData>
+      <dailyData date="25-12-2018">
+        <observation name="UNDEFINED" value="84.0" />
+      </dailyData>
+      <dailyData date="26-12-2018">
+        <observation name="UNDEFINED" value="176.0" />
+      </dailyData>
+      <dailyData date="27-12-2018">
+        <observation name="UNDEFINED" value="15.0" />
+      </dailyData>
+    </factor>
+    <factor id="doubleFeature:stats">
+      <dailyData date="15-12-2018">
+        <observation name="average" value="0.0" />
+        <observation name="count" value="21.0" />
+        <observation name="max" value="0.0" />
+        <observation name="min" value="0.0" />
+        <observation name="variance" value="0.0" />
+      </dailyData>
+      <dailyData date="16-12-2018">
+        <observation name="average" value="3379.715736" />
+        <observation name="count" value="591.0" />
+        <observation name="max" value="10000.0" />
+        <observation name="min" value="0.0" />
+        <observation name="variance" value="19506513.640365" />
+      </dailyData>
+      <dailyData date="19-12-2018">
+        <observation name="average" value="4437.577236" />
+        <observation name="count" value="369.0" />
+        <observation name="max" value="10000.0" />
+        <observation name="min" value="0.0" />
+        <observation name="variance" value="22042889.958505" />
+      </dailyData>
+      <dailyData date="20-12-2018">
+        <observation name="average" value="3748.778993" />
+        <observation name="count" value="457.0" />
+        <observation name="max" value="10000.0" />
+        <observation name="min" value="0.0" />
+        <observation name="variance" value="18152587.085089" />
+      </dailyData>
+      <dailyData date="25-12-2018">
+        <observation name="average" value="3272.916168" />
+        <observation name="count" value="167.0" />
+        <observation name="max" value="10000.0" />
+        <observation name="min" value="0.0" />
+        <observation name="variance" value="19067330.81579" />
+      </dailyData>
+      <dailyData date="26-12-2018">
+        <observation name="average" value="4424.615385" />
+        <observation name="count" value="351.0" />
+        <observation name="max" value="10000.0" />
+        <observation name="min" value="0.0" />
+        <observation name="variance" value="22004425.081262" />
+      </dailyData>
+      <dailyData date="27-12-2018">
+        <observation name="average" value="7218.37931" />
+        <observation name="count" value="29.0" />
+        <observation name="max" value="10000.0" />
+        <observation name="min" value="0.0" />
+        <observation name="variance" value="13813818.763087" />
+      </dailyData>
+    </factor>
+    <factor id="itemPosition">
+      <dailyData date="15-12-2018">
+        <observation name="0" value="2.0" />
+        <observation name="1" value="1.0" />
+      </dailyData>
+      <dailyData date="16-12-2018">
+        <observation name="0" value="93.0" />
+        <observation name="1" value="14.0" />
+        <observation name="2" value="2.0" />
+        <observation name="3" value="1.0" />
+      </dailyData>
+      <dailyData date="19-12-2018">
+        <observation name="0" value="58.0" />
+        <observation name="1" value="18.0" />
+      </dailyData>
+      <dailyData date="20-12-2018">
+        <observation name="0" value="87.0" />
+        <observation name="1" value="14.0" />
+        <observation name="2" value="1.0" />
+        <observation name="3" value="1.0" />
+      </dailyData>
+      <dailyData date="25-12-2018">
+        <observation name="0" value="26.0" />
+        <observation name="1" value="7.0" />
+        <observation name="3" value="1.0" />
+      </dailyData>
+      <dailyData date="26-12-2018">
+        <observation name="0" value="67.0" />
+        <observation name="1" value="15.0" />
+        <observation name="2" value="1.0" />
+      </dailyData>
+      <dailyData date="27-12-2018">
+        <observation name="0" value="5.0" />
+      </dailyData>
+    </factor>
+    <factor id="mnemonicsUsage">
+      <dailyData date="15-12-2018">
+        <observation name="total" value="3.0" />
+        <observation name="withMnemonics" value="0.0" />
+      </dailyData>
+      <dailyData date="16-12-2018">
+        <observation name="total" value="108.0" />
+        <observation name="withMnemonics" value="2.0" />
+      </dailyData>
+      <dailyData date="19-12-2018">
+        <observation name="total" value="75.0" />
+        <observation name="withMnemonics" value="1.0" />
+      </dailyData>
+      <dailyData date="20-12-2018">
+        <observation name="total" value="94.0" />
+        <observation name="withMnemonics" value="3.0" />
+      </dailyData>
+      <dailyData date="25-12-2018">
+        <observation name="total" value="33.0" />
+        <observation name="withMnemonics" value="1.0" />
+      </dailyData>
+      <dailyData date="26-12-2018">
+        <observation name="total" value="77.0" />
+        <observation name="withMnemonics" value="0.0" />
+      </dailyData>
+      <dailyData date="27-12-2018">
+        <observation name="total" value="5.0" />
+        <observation name="withMnemonics" value="0.0" />
+      </dailyData>
+    </factor>
+    <factor id="prefixLength">
+      <dailyData date="15-12-2018">
+        <observation name="5" value="2.0" />
+        <observation name="7" value="1.0" />
+      </dailyData>
+      <dailyData date="16-12-2018">
+        <observation name="1" value="2.0" />
+        <observation name="2" value="45.0" />
+        <observation name="3" value="26.0" />
+        <observation name="4" value="19.0" />
+        <observation name="5" value="4.0" />
+        <observation name="6" value="4.0" />
+        <observation name="7" value="7.0" />
+        <observation name="8" value="3.0" />
+      </dailyData>
+      <dailyData date="19-12-2018">
+        <observation name="1" value="1.0" />
+        <observation name="2" value="25.0" />
+        <observation name="3" value="20.0" />
+        <observation name="4" value="20.0" />
+        <observation name="5" value="5.0" />
+        <observation name="6" value="1.0" />
+        <observation name="7" value="2.0" />
+        <observation name="8" value="2.0" />
+      </dailyData>
+      <dailyData date="20-12-2018">
+        <observation name="0" value="2.0" />
+        <observation name="1" value="7.0" />
+        <observation name="12" value="1.0" />
+        <observation name="14" value="1.0" />
+        <observation name="2" value="33.0" />
+        <observation name="3" value="24.0" />
+        <observation name="4" value="19.0" />
+        <observation name="5" value="4.0" />
+        <observation name="6" value="4.0" />
+        <observation name="7" value="5.0" />
+        <observation name="8" value="2.0" />
+        <observation name="9" value="1.0" />
+      </dailyData>
+      <dailyData date="25-12-2018">
+        <observation name="1" value="1.0" />
+        <observation name="10" value="1.0" />
+        <observation name="2" value="6.0" />
+        <observation name="3" value="8.0" />
+        <observation name="4" value="10.0" />
+        <observation name="5" value="4.0" />
+        <observation name="7" value="2.0" />
+        <observation name="8" value="2.0" />
+      </dailyData>
+      <dailyData date="26-12-2018">
+        <observation name="0" value="4.0" />
+        <observation name="1" value="2.0" />
+        <observation name="12" value="1.0" />
+        <observation name="2" value="23.0" />
+        <observation name="3" value="22.0" />
+        <observation name="4" value="19.0" />
+        <observation name="5" value="5.0" />
+        <observation name="6" value="2.0" />
+        <observation name="7" value="5.0" />
+      </dailyData>
+      <dailyData date="27-12-2018">
+        <observation name="2" value="3.0" />
+        <observation name="3" value="1.0" />
+        <observation name="4" value="1.0" />
+      </dailyData>
+    </factor>
+    <factor id="timeBetweenTyping">
+      <dailyData date="15-12-2018">
+        <observation name="average" value="214.272727" />
+        <observation name="count" value="66.0" />
+      </dailyData>
+      <dailyData date="16-12-2018">
+        <observation name="average" value="297.664366" />
+        <observation name="count" value="1159.0" />
+      </dailyData>
+      <dailyData date="19-12-2018">
+        <observation name="average" value="251.474672" />
+        <observation name="count" value="533.0" />
+      </dailyData>
+      <dailyData date="20-12-2018">
+        <observation name="average" value="284.762142" />
+        <observation name="count" value="803.0" />
+      </dailyData>
+      <dailyData date="25-12-2018">
+        <observation name="average" value="267.067742" />
+        <observation name="count" value="310.0" />
+      </dailyData>
+      <dailyData date="26-12-2018">
+        <observation name="average" value="272.402759" />
+        <observation name="count" value="725.0" />
+      </dailyData>
+      <dailyData date="27-12-2018">
+        <observation name="average" value="340.147727" />
+        <observation name="count" value="88.0" />
+      </dailyData>
+    </factor>
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="todos-api" type="b2602c69:ProjectViewProjectNode" />
+              <item name="todos-api" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="todos-api" type="b2602c69:ProjectViewProjectNode" />
+              <item name="todos-api" type="462c0819:PsiDirectoryNode" />
+              <item name="app" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="todos-api" type="b2602c69:ProjectViewProjectNode" />
+              <item name="todos-api" type="462c0819:PsiDirectoryNode" />
+              <item name="app" type="462c0819:PsiDirectoryNode" />
+              <item name="auth" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="todos-api" type="b2602c69:ProjectViewProjectNode" />
+              <item name="todos-api" type="462c0819:PsiDirectoryNode" />
+              <item name="app" type="462c0819:PsiDirectoryNode" />
+              <item name="controllers" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="todos-api" type="b2602c69:ProjectViewProjectNode" />
+              <item name="todos-api" type="462c0819:PsiDirectoryNode" />
+              <item name="app" type="462c0819:PsiDirectoryNode" />
+              <item name="controllers" type="462c0819:PsiDirectoryNode" />
+              <item name="concerns" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="todos-api" type="b2602c69:ProjectViewProjectNode" />
+              <item name="todos-api" type="462c0819:PsiDirectoryNode" />
+              <item name="app" type="462c0819:PsiDirectoryNode" />
+              <item name="lib" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="todos-api" type="b2602c69:ProjectViewProjectNode" />
+              <item name="todos-api" type="462c0819:PsiDirectoryNode" />
+              <item name="app" type="462c0819:PsiDirectoryNode" />
+              <item name="models" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="todos-api" type="b2602c69:ProjectViewProjectNode" />
+              <item name="todos-api" type="462c0819:PsiDirectoryNode" />
+              <item name="spec" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="todos-api" type="b2602c69:ProjectViewProjectNode" />
+              <item name="todos-api" type="462c0819:PsiDirectoryNode" />
+              <item name="spec" type="462c0819:PsiDirectoryNode" />
+              <item name="auth" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="todos-api" type="b2602c69:ProjectViewProjectNode" />
+              <item name="todos-api" type="462c0819:PsiDirectoryNode" />
+              <item name="spec" type="462c0819:PsiDirectoryNode" />
+              <item name="controllers" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="todos-api" type="b2602c69:ProjectViewProjectNode" />
+              <item name="todos-api" type="462c0819:PsiDirectoryNode" />
+              <item name="spec" type="462c0819:PsiDirectoryNode" />
+              <item name="factories" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="todos-api" type="b2602c69:ProjectViewProjectNode" />
+              <item name="todos-api" type="462c0819:PsiDirectoryNode" />
+              <item name="spec" type="462c0819:PsiDirectoryNode" />
+              <item name="models" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="todos-api" type="b2602c69:ProjectViewProjectNode" />
+              <item name="todos-api" type="462c0819:PsiDirectoryNode" />
+              <item name="spec" type="462c0819:PsiDirectoryNode" />
+              <item name="requests" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="todos-api" type="b2602c69:ProjectViewProjectNode" />
+              <item name="todos-api" type="462c0819:PsiDirectoryNode" />
+              <item name="spec" type="462c0819:PsiDirectoryNode" />
+              <item name="support" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="RailsProjectView" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DatabaseDriversLRU" value="sqlite" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="database.console.LAST_STATE" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="settings.editor.selected.configurable" value="org.jetbrains.plugins.ruby.settings.RubyActiveModuleSdkConfigurable" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Rails.Development: todos-api">
+    <configuration name="Development: todos-api" type="RailsRunConfigurationType" factoryName="Rails">
+      <module name="todos-api" />
+      <predefined_log_file enabled="true" id="RUBY_RAILS_SERVER" />
+      <RAILS_SERVER_CONFIG_SETTINGS_ID NAME="RUBY_ARGS" VALUE="" />
+      <RAILS_SERVER_CONFIG_SETTINGS_ID NAME="WORK DIR" VALUE="$MODULE_DIR$" />
+      <RAILS_SERVER_CONFIG_SETTINGS_ID NAME="SHOULD_USE_SDK" VALUE="false" />
+      <RAILS_SERVER_CONFIG_SETTINGS_ID NAME="ALTERN_SDK_NAME" VALUE="" />
+      <RAILS_SERVER_CONFIG_SETTINGS_ID NAME="myPassParentEnvs" VALUE="true" />
+      <EXTENSION ID="BundlerRunConfigurationExtension" bundleExecEnabled="false" />
+      <EXTENSION ID="JRubyRunConfigurationExtension" NailgunExecEnabled="false" />
+      <EXTENSION ID="RubyCoverageRunConfigurationExtension" track_test_folders="true" runner="rcov">
+        <COVERAGE_PATTERN ENABLED="true">
+          <PATTERN REGEXPS="/.rvm/" INCLUDED="false" />
+        </COVERAGE_PATTERN>
+      </EXTENSION>
+      <RAILS_SERVER_CONFIG_SETTINGS_ID NAME="SCRIPT_ARGS" VALUE="" />
+      <RAILS_SERVER_CONFIG_SETTINGS_ID NAME="PORT" VALUE="3000" />
+      <RAILS_SERVER_CONFIG_SETTINGS_ID NAME="IP" VALUE="0.0.0.0" />
+      <RAILS_SERVER_CONFIG_SETTINGS_ID NAME="DUMMY_APP" VALUE="test/dummy" />
+      <RAILS_SERVER_CONFIG_SETTINGS_ID NAME="RAILS_SERVER_TYPE" VALUE="Default" />
+      <RAILS_SERVER_CONFIG_SETTINGS_ID NAME="ENVIRONMENT_TYPE" VALUE="development" />
+      <RAILS_SERVER_CONFIG_SETTINGS_ID NAME="LAUNCH_JS" VALUE="false" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Production: todos-api" type="RailsRunConfigurationType" factoryName="Rails">
+      <module name="todos-api" />
+      <predefined_log_file enabled="true" id="RUBY_RAILS_SERVER" />
+      <RAILS_SERVER_CONFIG_SETTINGS_ID NAME="RUBY_ARGS" VALUE="" />
+      <RAILS_SERVER_CONFIG_SETTINGS_ID NAME="WORK DIR" VALUE="$MODULE_DIR$" />
+      <RAILS_SERVER_CONFIG_SETTINGS_ID NAME="SHOULD_USE_SDK" VALUE="false" />
+      <RAILS_SERVER_CONFIG_SETTINGS_ID NAME="ALTERN_SDK_NAME" VALUE="" />
+      <RAILS_SERVER_CONFIG_SETTINGS_ID NAME="myPassParentEnvs" VALUE="true" />
+      <EXTENSION ID="BundlerRunConfigurationExtension" bundleExecEnabled="false" />
+      <EXTENSION ID="JRubyRunConfigurationExtension" NailgunExecEnabled="false" />
+      <EXTENSION ID="RubyCoverageRunConfigurationExtension" track_test_folders="true" runner="rcov">
+        <COVERAGE_PATTERN ENABLED="true">
+          <PATTERN REGEXPS="/.rvm/" INCLUDED="false" />
+        </COVERAGE_PATTERN>
+      </EXTENSION>
+      <RAILS_SERVER_CONFIG_SETTINGS_ID NAME="SCRIPT_ARGS" VALUE="" />
+      <RAILS_SERVER_CONFIG_SETTINGS_ID NAME="PORT" VALUE="3000" />
+      <RAILS_SERVER_CONFIG_SETTINGS_ID NAME="IP" VALUE="0.0.0.0" />
+      <RAILS_SERVER_CONFIG_SETTINGS_ID NAME="DUMMY_APP" VALUE="test/dummy" />
+      <RAILS_SERVER_CONFIG_SETTINGS_ID NAME="RAILS_SERVER_TYPE" VALUE="Default" />
+      <RAILS_SERVER_CONFIG_SETTINGS_ID NAME="ENVIRONMENT_TYPE" VALUE="production" />
+      <RAILS_SERVER_CONFIG_SETTINGS_ID NAME="LAUNCH_JS" VALUE="false" />
+      <method v="2" />
+    </configuration>
+    <configuration name="spec: todos-api" type="RakeRunConfigurationType" factoryName="Rake">
+      <module name="todos-api" />
+      <RAKE_RUN_CONFIG_SETTINGS_ID NAME="RUBY_ARGS" VALUE="" />
+      <RAKE_RUN_CONFIG_SETTINGS_ID NAME="WORK DIR" VALUE="$MODULE_DIR$" />
+      <RAKE_RUN_CONFIG_SETTINGS_ID NAME="SHOULD_USE_SDK" VALUE="false" />
+      <RAKE_RUN_CONFIG_SETTINGS_ID NAME="ALTERN_SDK_NAME" VALUE="" />
+      <RAKE_RUN_CONFIG_SETTINGS_ID NAME="myPassParentEnvs" VALUE="true" />
+      <EXTENSION ID="BundlerRunConfigurationExtension" bundleExecEnabled="false" />
+      <EXTENSION ID="JRubyRunConfigurationExtension" NailgunExecEnabled="false" />
+      <EXTENSION ID="RubyCoverageRunConfigurationExtension" track_test_folders="true" runner="rcov">
+        <COVERAGE_PATTERN ENABLED="true">
+          <PATTERN REGEXPS="/.rvm/" INCLUDED="false" />
+        </COVERAGE_PATTERN>
+      </EXTENSION>
+      <RAKE_RUN_CONFIG_SETTINGS_ID NAME="RAKE_TASK_NAME" VALUE="spec" />
+      <RAKE_RUN_CONFIG_SETTINGS_ID NAME="RAKE_TASK_ARGS" VALUE="" />
+      <RAKE_RUN_CONFIG_SETTINGS_ID NAME="RAKE_TASK_ATTACHED_TEST_FRAMEWORKS" VALUE=":rspec " />
+      <RAKE_RUN_CONFIG_SETTINGS_ID NAME="RAKE_TASK_OPTION_TRACE" VALUE="false" />
+      <RAKE_RUN_CONFIG_SETTINGS_ID NAME="RAKE_TASK_OPTION_DRYRUN" VALUE="false" />
+      <RAKE_RUN_CONFIG_SETTINGS_ID NAME="RAKE_TASK_OPTION_PREREQS" VALUE="false" />
+      <method v="2" />
+    </configuration>
+    <configuration name="test: todos-api" type="RakeRunConfigurationType" factoryName="Rake">
+      <module name="todos-api" />
+      <RAKE_RUN_CONFIG_SETTINGS_ID NAME="RUBY_ARGS" VALUE="" />
+      <RAKE_RUN_CONFIG_SETTINGS_ID NAME="WORK DIR" VALUE="$MODULE_DIR$" />
+      <RAKE_RUN_CONFIG_SETTINGS_ID NAME="SHOULD_USE_SDK" VALUE="false" />
+      <RAKE_RUN_CONFIG_SETTINGS_ID NAME="ALTERN_SDK_NAME" VALUE="" />
+      <RAKE_RUN_CONFIG_SETTINGS_ID NAME="myPassParentEnvs" VALUE="true" />
+      <envs>
+        <env name="RAILS_ENV" value="test" />
+      </envs>
+      <EXTENSION ID="BundlerRunConfigurationExtension" bundleExecEnabled="false" />
+      <EXTENSION ID="JRubyRunConfigurationExtension" NailgunExecEnabled="false" />
+      <EXTENSION ID="RubyCoverageRunConfigurationExtension" track_test_folders="true" runner="rcov">
+        <COVERAGE_PATTERN ENABLED="true">
+          <PATTERN REGEXPS="/.rvm/" INCLUDED="false" />
+        </COVERAGE_PATTERN>
+      </EXTENSION>
+      <RAKE_RUN_CONFIG_SETTINGS_ID NAME="RAKE_TASK_NAME" VALUE="test" />
+      <RAKE_RUN_CONFIG_SETTINGS_ID NAME="RAKE_TASK_ARGS" VALUE="" />
+      <RAKE_RUN_CONFIG_SETTINGS_ID NAME="RAKE_TASK_ATTACHED_TEST_FRAMEWORKS" VALUE=":test_unit " />
+      <RAKE_RUN_CONFIG_SETTINGS_ID NAME="RAKE_TASK_OPTION_TRACE" VALUE="false" />
+      <RAKE_RUN_CONFIG_SETTINGS_ID NAME="RAKE_TASK_OPTION_DRYRUN" VALUE="false" />
+      <RAKE_RUN_CONFIG_SETTINGS_ID NAME="RAKE_TASK_OPTION_PREREQS" VALUE="false" />
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SpringUtil" SPRING_PRE_LOADER_OPTION="true" />
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="34b419c4-7058-48de-8007-87ff06b95592" name="Default Changelist" comment="" />
+      <created>1544875334674</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1544875334674</updated>
+      <workItem from="1544875336915" duration="895000" />
+      <workItem from="1544876257345" duration="3598000" />
+      <workItem from="1544939306600" duration="5172000" />
+      <workItem from="1544961549247" duration="5823000" />
+      <workItem from="1545127166646" duration="599000" />
+      <workItem from="1545201166643" duration="2547000" />
+      <workItem from="1545224972835" duration="3775000" />
+      <workItem from="1545246461530" duration="1507000" />
+      <workItem from="1545282707622" duration="1172000" />
+      <workItem from="1545310192132" duration="6798000" />
+      <workItem from="1545327027716" duration="1981000" />
+      <workItem from="1545387585206" duration="599000" />
+      <workItem from="1545490808310" duration="599000" />
+      <workItem from="1545589985051" duration="618000" />
+      <workItem from="1545672374690" duration="46000" />
+      <workItem from="1545672461620" duration="10000" />
+      <workItem from="1545676064561" duration="3042000" />
+      <workItem from="1545753927003" duration="1222000" />
+      <workItem from="1545815040562" duration="599000" />
+      <workItem from="1545828749464" duration="7677000" />
+      <workItem from="1545894910204" duration="2754000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="51033000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="0" y="25" width="1366" height="743" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49878934" visible="true" weight="0.26399395" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Favorites" order="2" sideWeight="0.50121063" side_tool="true" weight="0.25265554" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32956383" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Database Changes" order="8" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="9" />
+      <window_info anchor="bottom" id="Terminal" order="10" sideWeight="0.49924126" weight="0.3279483" />
+      <window_info anchor="bottom" id="Event Log" order="11" sideWeight="0.5007587" side_tool="true" weight="0.32954547" />
+      <window_info anchor="bottom" id="Messages" order="12" weight="0.32954547" />
+      <window_info anchor="bottom" id="Database Console" order="13" weight="0.32954547" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Database" order="3" weight="0.32852808" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$APPLICATION_CONFIG_DIR$/consoles/db/d338f93a-9785-4524-9751-c146f28d7ffa/console.sql">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="das://d338f93a-9785-4524-9751-c146f28d7ffa/schema/main/table/sqlite_master" />
+    <entry file="file://$APPLICATION_CONFIG_DIR$/consoles/db/75f56550-98e2-4f75-9a00-a669839417a6/console.sql">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="das://75f56550-98e2-4f75-9a00-a669839417a6/schema/main/table/items" />
+    <entry file="file://$PROJECT_DIR$/db/migrate/20181215123013_create_items.rb">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/spec/factories/todos.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="3" column="41" selection-start-line="3" selection-start-column="41" selection-end-line="3" selection-end-column="41" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/controllers/items_controller.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="238">
+          <caret line="14" column="28" selection-start-line="14" selection-start-column="28" selection-end-line="14" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/spec/factories/items.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="6" column="3" selection-start-line="6" selection-start-column="3" selection-end-line="6" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/models/item.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" column="20" selection-start-line="4" selection-start-column="20" selection-end-line="4" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/spec/models/test_test.rb" />
+    <entry file="das://75f56550-98e2-4f75-9a00-a669839417a6/schema/main/table/todos" />
+    <entry file="file://$PROJECT_DIR$/spec/models/todo_spec.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="8" column="22" selection-start-line="8" selection-start-column="22" selection-end-line="8" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/spec/models/item_spec.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="7" column="22" selection-start-line="7" selection-start-column="22" selection-end-line="7" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Gemfile">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="91">
+          <caret line="14" column="37" selection-start-line="14" selection-start-column="37" selection-end-line="14" selection-end-column="37" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/spec/rails_helper.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="15">
+          <caret line="80" column="37" selection-start-line="80" selection-start-column="37" selection-end-line="80" selection-end-column="37" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/controllers/concerns/response.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="3" column="39" selection-start-line="3" selection-start-column="39" selection-end-line="3" selection-end-column="39" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="das://75f56550-98e2-4f75-9a00-a669839417a6/schema/main/table/users" />
+    <entry file="file://$APPLICATION_CONFIG_DIR$/consoles/db/b0ec1a20-8ee6-40ea-b7dd-bb3b63e33951/console.sql">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/lib/json_web_token.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="10" column="26" selection-start-line="10" selection-start-column="26" selection-end-line="10" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/spec/controllers/items_controller_spec.rb">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/config/routes.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="7" column="8" selection-start-line="7" selection-start-column="8" selection-end-line="7" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/spec/controllers/users_controller_spec.rb">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/controllers/todos_controller.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="249">
+          <caret line="43" lean-forward="true" selection-start-line="43" selection-end-line="43" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/models/todo.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="3" selection-start-line="3" selection-end-line="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/models/user.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="8" column="55" selection-start-line="8" selection-start-column="40" selection-end-line="8" selection-end-column="55" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/spec/models/user_spec.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="11" selection-start-line="11" selection-end-line="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/spec/support/request_spec_helper.rb">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/controllers/users_controller.rb">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/controllers/application_controller.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret lean-forward="true" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/spec/support/controller_spec_helper.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="10" selection-start-line="10" selection-end-line="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/controllers/authentication_controller.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="6" column="28" selection-start-line="6" selection-start-column="18" selection-end-line="6" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/spec/requests/items_spec.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="288">
+          <caret line="129" column="7" selection-start-line="129" selection-start-column="7" selection-end-line="129" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/auth/authorize_api_request.rb">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/spec/requests/todos_spec.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="521">
+          <caret line="71" column="29" selection-start-line="71" selection-start-column="29" selection-end-line="71" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/spec/factories/users.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="5" column="5" selection-start-line="5" selection-start-column="5" selection-end-line="5" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/lib/message.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="6" column="5" selection-start-line="6" selection-start-column="5" selection-end-line="6" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/controllers/concerns/exception_handler.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="391">
+          <caret line="23" column="38" selection-start-line="23" selection-start-column="31" selection-end-line="23" selection-end-column="38" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/spec/auth/authorize_api_request_spec.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="493">
+          <caret line="29" column="24" lean-forward="true" selection-start-line="29" selection-start-column="24" selection-end-line="29" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/auth/authenticate_user.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-7">
+          <caret line="3" column="18" lean-forward="true" selection-start-line="3" selection-start-column="18" selection-end-line="3" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/spec/requests/users_spec.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="765">
+          <caret line="44" column="3" selection-start-line="44" selection-start-column="3" selection-end-line="44" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/spec/controllers/application_controller_spec.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="374">
+          <caret line="28" column="15" selection-start-line="28" selection-start-column="15" selection-end-line="28" selection-end-column="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/spec/controllers/authentication_controller_spec.rb">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/spec/requests/authentication_spec.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="282">
+          <caret line="26" column="30" lean-forward="true" selection-start-line="26" selection-start-column="30" selection-end-line="26" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/spec/auth/authenticate_user_spec.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="425">
+          <caret line="25" column="38" selection-start-line="25" selection-start-column="38" selection-end-line="25" selection-end-column="38" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
